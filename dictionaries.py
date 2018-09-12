@@ -26,4 +26,4 @@ another_dict_in_dict = {
 
 sum(lottery_player['numbers'])
 
-lottery_player['name'] = 'John'
+lottery_player['name'] = 'Rolf'
